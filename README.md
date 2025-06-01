@@ -23,18 +23,15 @@ AI-enhanced functions for adaptive difficulty and predictive behavior.</p>
 
 <h1>Click Blue Button For Play</h1>
 
-<h2>Today
-Write 500 words and code with javascript that I am AmanKumar Develop a Mario-Mole-Game using Javascript with Ai reference
-Creating a Mario-Mole-Game using JavaScript with AI elements is an exciting project! Below is a concept, explanation, and sample JavaScript code to help guide your development.
+<h2>Concept</h2>
 
-Concept
-The game is inspired by classic Whac-a-Mole, featuring a Mario theme where the player must "hit" moles popping out of pipes within a limited time. Adding AI elements could involve:
+<P>The game is inspired by classic Whac-a-Mole, featuring a Mario theme where the player must "hit" moles popping out of pipes within a limited time. Adding AI elements could involve:
 
 Adaptive Difficulty – AI adjusts mole speed based on player's performance.
 
 Smart Mole Behavior – AI determines which pipes moles appear from, based on previous player moves.
 
-Score Prediction – AI suggests strategies to improve gameplay.
+Score Prediction – AI suggests strategies to improve gameplay.</p>
 
 Game Structure
 HTML for the game UI.
